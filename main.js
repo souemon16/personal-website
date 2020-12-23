@@ -262,6 +262,7 @@ function popupDetailsToggle() {
         slides[slideIndex].classList.add("active");
         sliderContainer.style.marginLeft = - (slideWidth * slideIndex) + "px";
     }
+    
 })();
 
 
